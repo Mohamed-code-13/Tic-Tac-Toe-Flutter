@@ -31,7 +31,7 @@ A classic Tic Tac Toe game built using Flutter. Play against a friend or challen
 2. Navigate to the project directory:
 
    ```bash
-   cd tic_tac_toe
+   cd Tic-Tac-Toe-Flutter
    ```
 
 3. Install dependencies:
